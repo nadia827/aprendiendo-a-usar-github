@@ -10,4 +10,6 @@ base_superior = float(input("la base superior es:"))
 area = 0.5*(base_inferior + base_superior)*altura_trapezoide
 
 print("entonces, el área del bendito trapezoide es de", area, "cm^2")
+print("congatulations!!")
+
 
